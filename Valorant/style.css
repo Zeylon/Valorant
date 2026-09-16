@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #d8c8c8;
+       margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fae6e6;
+    background-image: url("Bilder/Valorant\ bakgrund.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #222
+}
+header {
+    color: black;
+    text-align: center;
+    padding: 15px;
+    padding: 50px;
+    background: transparent;
+}
+header h1 {
+    font-size: 70px;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+nav {
+    background-color: #f2f2f2;
+    background: transparent;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-wrap: wrap;
+}
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: block;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 8px;
+    margin: 5px;
+    background-color: rgba(217, 179, 252, 0.7);
+}
+nav a:hover {
+    color: #ff4655;
+}
+.aktiv {
+    font-weight: bold;
+    color: #ff4655;
+}
+main {
+    width: 90%;
+    max-width: 900px;
+    margin: 40px auto;
+    line-height: 1.5;
+}
+main img {
+    max-width: 100%;
+    height: auto;
+}
+main a {
+    color: #ff4655;
+    font-weight: bold;
+}
+main a:hover {
+    text-decoration: none;
+}
+main ul {
+    list-style: square;
+}
+#hemsida {
+    background-color: #fcfcfc;
+    padding: 20px;
+}
+header {
+    color: white;
+    text-align: center;
+    padding: 50px;
+    background: transparent;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 5px;
+font-size: 10px;
+}
+main h2 {
+    color: #ff4655;
+    font-size: 30px;
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+}
+main h3 {
+    color: black;
+    font-size: 21px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+main p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+* {
+    box-sizing: border-box;
+}
+strong {
+    color: #000000;
+}
