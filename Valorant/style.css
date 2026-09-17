@@ -1,15 +1,26 @@
-body {
+.start {
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #d8c8c8;
-       margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #fae6e6;
     background-image: url("Bilder/Valorant\ bakgrund.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    color: #222
+}
+.roller{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("Bilder/bakgrund.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.spelet {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("Bilder/bakkgrund.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 header {
     color: black;
@@ -22,8 +33,9 @@ header h1 {
     font-size: 70px;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
-    color: black;
+    color: #ff4655;
 }
+
 nav {
     background-color: #f2f2f2;
     background: transparent;
